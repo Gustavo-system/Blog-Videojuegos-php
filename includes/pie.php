@@ -4,7 +4,7 @@
 
 		<!-- PIE DE PÁGINA -->
 		<footer id="pie">
-			<p>Desarrollado por Víctor Robles &copy; 2018</p>
+			<p>Desarrollado por Gustavo Solar &copy; 2019</p>
 		</footer>
 		
 	</body>
